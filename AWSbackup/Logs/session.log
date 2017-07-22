@@ -1,0 +1,17 @@
+************************
+28/04/2016 - Backup Session Started
+************************
+28/04/2016 - Starting to get volIDs 
+28/04/2016 - We found: 27 Production Volumes.
+28/04/2016 - Creating Snapshots
+************************
+28/04/2016 - Starting Snapshots 
+28/04/2016 - We created: 26 snapshots.
+28/04/2016 - Tagging Snapshots
+************************
+28/04/2016 - Starting to read in snapshotIDs created in the prior step. 
+28/04/2016 - Finished getting SnapahotIDs. There was: 27
+28/04/2016 - Starting to tag the snapshots.
+28/04/2016 - We tagged: 26 Production Volumes
+28/04/2016 - Backup Session Closed
+**************
